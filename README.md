@@ -1,4 +1,4 @@
-# defasio_logica_inicial
+# desafio_logica_inicial
 projeto Dio
 Entendendo o Desafio
  
